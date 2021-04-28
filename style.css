@@ -55,7 +55,7 @@ a:hover {
 }
 
 .bloc-sm {
-    padding: 20px 50px;
+    padding: 40px 50px;
 }
 
 .tc-white {
@@ -248,7 +248,12 @@ a:hover {
     padding-right: 0;
     padding-left: 0;
 }
-
+.col-xs-3
+{
+    float: left;
+    width: 25%;
+    padding-top: 0;
+}
 #bloc-1-hero h1 {
     font-size: 42px;
 }
