@@ -632,7 +632,7 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 600;
+    font-weight: 400;
     color: #575757 !important;
 }
 
@@ -724,7 +724,7 @@ h2 {
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;

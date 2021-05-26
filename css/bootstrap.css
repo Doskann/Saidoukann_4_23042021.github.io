@@ -85,7 +85,10 @@ mark {
 small {
     font-size: 80%
 }
-
+.text-center {
+    text-align: center;
+    color: #333333 !important;
+}
 sub,
 sup {
     position: relative;
